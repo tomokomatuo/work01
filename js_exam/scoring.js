@@ -90,4 +90,4 @@ $(document).ready(function(){
   $('#btn-declaration').click(function() {
     $("#declaration").text(judgement());
   });
-});
+});git 
