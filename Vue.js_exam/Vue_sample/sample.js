@@ -24,7 +24,6 @@ new Vue({
           course: this.course,
           acceptancePeriod: this.acceptancePeriod
         })
-        this.newStudentText = ''
     }
   }
 })
